@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    width: 100%;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+}
+.box {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(162, 226, 213);
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+.box p{
+    text-align: center;
+}
+.all-screen{
+    width: 100%;
+}
+.all-screen h1{
+    text-align: center;
+}
+.box-flex-start{
+    justify-content: flex-start;
+}
+.box-flex-end{
+    justify-content: flex-end;
+}
+.box-center{
+    justify-content: center;
+}
+.box-space-between{
+    justify-content: space-between;
+}
+.box-space-around{
+    justify-content: space-around;
+}
+.box-space-evenly{
+    justify-content: space-evenly;
+}
