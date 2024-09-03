@@ -3,7 +3,8 @@
 ## Alunos:
 
 * Caio Sampaio. RA: 10381053;
-* Guilherme Picoli. RA: 10389843.
+* Guilherme Picoli. RA: 10389843;
+* Caio Filardi. RA: 10341128.
 
 ## Explicação dos Diferentes Tipos de justify-content e Suas Aplicações
 
