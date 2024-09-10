@@ -1,4 +1,4 @@
-# POC1-Flexbox
+# POC1 - Flexbox
 
 ## Alunos:
 
